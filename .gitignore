@@ -1,0 +1,21 @@
+node_modules/
+dist/
+.env
+.env.local
+.vercel/
+
+# Secrets – never commit
+serviceAccount.json
+*-firebase-adminsdk-*.json
+
+# Firebase emulator logs
+*-debug.log
+
+# Build outputs (the demo APK is shared as a GitHub release asset, not in git)
+*.apk
+*.aab
+mobile/android/
+mobile/ios/
+
+# Local tool settings
+.claude/

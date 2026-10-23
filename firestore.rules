@@ -1,0 +1,73 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function signedIn() { return request.auth != null; }
+    function me() { return get(/databases/$(database)/documents/users/$(request.auth.uid)).data; }
+    function isAdmin() { return signedIn() && exists(/databases/$(database)/documents/users/$(request.auth.uid)) && me().role == 'admin'; }
+    function isApprovedDealer() { return signedIn() && me().role == 'dealer' && me().dealerStatus == 'approved'; }
+    function unchanged(fields) { return !request.resource.data.diff(resource.data).affectedKeys().hasAny(fields); }
+
+    // Users: self-service profile; only admins can grant roles or approve dealers.
+    match /users/{uid} {
+      allow read: if signedIn() && (request.auth.uid == uid || isAdmin());
+      allow create: if signedIn() && request.auth.uid == uid
+        && (
+          (request.resource.data.role == 'customer' && !('dealerStatus' in request.resource.data))
+          || (request.resource.data.role == 'dealer' && request.resource.data.dealerStatus == 'pending')
+        );
+      allow update: if isAdmin()
+        || (signedIn() && request.auth.uid == uid && unchanged(['role', 'dealerStatus', 'email']));
+      allow delete: if isAdmin();
+    }
+
+    // Catalog: public read, admin write.
+    match /products/{id} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    // Orders: customers and approved dealers create their own; admin manages.
+    match /orders/{id} {
+      allow read: if signedIn() && (resource.data.userId == request.auth.uid || isAdmin());
+      allow create: if signedIn()
+        && request.resource.data.userId == request.auth.uid
+        && request.resource.data.status == 'placed'
+        && (
+          (request.resource.data.channel == 'retail' && me().role == 'customer')
+          || (request.resource.data.channel == 'dealer' && isApprovedDealer())
+        );
+      // Owners may only cancel an order that has not shipped yet.
+      allow update: if isAdmin()
+        || (signedIn() && resource.data.userId == request.auth.uid
+            && resource.data.status in ['placed', 'confirmed']
+            && request.resource.data.status == 'cancelled'
+            && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['status', 'statusHistory', 'updatedAt']));
+      allow delete: if false;
+    }
+
+    // Service desk tickets.
+    match /serviceRequests/{id} {
+      allow read: if signedIn() && (resource.data.userId == request.auth.uid || isAdmin());
+      allow create: if signedIn() && request.resource.data.userId == request.auth.uid
+        && request.resource.data.status == 'open';
+      allow update: if isAdmin()
+        || (signedIn() && resource.data.userId == request.auth.uid
+            && resource.data.status == 'open'
+            && request.resource.data.status == 'cancelled'
+            && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['status', 'history', 'updatedAt']));
+      allow delete: if false;
+    }
+
+    // In-app notification inbox. Written by admin (or the server function).
+    match /notifications/{id} {
+      allow read: if signedIn() && (resource.data.userId == request.auth.uid || isAdmin());
+      allow create: if isAdmin()
+        || (signedIn() && request.resource.data.userId == request.auth.uid);
+      allow update: if signedIn() && resource.data.userId == request.auth.uid
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['read']);
+      allow delete: if signedIn() && resource.data.userId == request.auth.uid;
+    }
+  }
+}
