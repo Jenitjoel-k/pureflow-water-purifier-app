@@ -1,0 +1,1016 @@
+[
+ {
+  "id": "pur-elite-ro-uv-uf",
+  "name": "PureFlow Elite RO+UV+UF 10L",
+  "category": "Purifiers",
+  "price": 18999,
+  "mrp": 22419,
+  "dealerPrice": 13680,
+  "moq": 5,
+  "stock": 40,
+  "rating": 4.6,
+  "description": "Seven-stage RO + UV + UF purification with mineral booster and a 10 litre storage tank. Ideal for borewell and municipal water up to 2000 ppm TDS.",
+  "specs": {
+   "Technology": "RO + UV + UF + TDS control",
+   "Storage": "10 L",
+   "Purification rate": "15 L/hr",
+   "Max TDS": "2000 ppm",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "pur-aqua-max-ro-copper",
+  "name": "PureFlow AquaMax RO+Copper 8L",
+  "category": "Purifiers",
+  "price": 16499,
+  "mrp": 19469,
+  "dealerPrice": 11880,
+  "moq": 5,
+  "stock": 35,
+  "rating": 4.5,
+  "description": "RO purifier with copper-infused final stage that adds natural copper goodness to every glass. 8 litre tank with overflow protection.",
+  "specs": {
+   "Technology": "RO + Copper + UV",
+   "Storage": "8 L",
+   "Purification rate": "12 L/hr",
+   "Max TDS": "1800 ppm",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "pur-nova-ro-alkaline",
+  "name": "PureFlow Nova Alkaline RO 9L",
+  "category": "Purifiers",
+  "price": 21999,
+  "mrp": 25959,
+  "dealerPrice": 15620,
+  "moq": 5,
+  "stock": 25,
+  "rating": 4.7,
+  "description": "Alkaline RO purifier that raises pH to 8.5+ with an inbuilt alkaline cartridge. Touch panel with filter life indicator.",
+  "specs": {
+   "Technology": "RO + UV + Alkaline",
+   "Storage": "9 L",
+   "Purification rate": "15 L/hr",
+   "pH": "8.0 - 9.5",
+   "Warranty": "2 years"
+  },
+  "active": true
+ },
+ {
+  "id": "pur-classic-ro-7l",
+  "name": "PureFlow Classic RO 7L",
+  "category": "Purifiers",
+  "price": 11999,
+  "mrp": 14159,
+  "dealerPrice": 8760,
+  "moq": 5,
+  "stock": 60,
+  "rating": 4.3,
+  "description": "Reliable everyday RO purifier with pre-filter, sediment, carbon and RO membrane stages. Great value for small families.",
+  "specs": {
+   "Technology": "RO + Post carbon",
+   "Storage": "7 L",
+   "Purification rate": "12 L/hr",
+   "Max TDS": "1500 ppm",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "pur-smart-iot-ro",
+  "name": "PureFlow Smart IoT RO+UV 10L",
+  "category": "Purifiers",
+  "price": 26999,
+  "mrp": 31859,
+  "dealerPrice": 18900,
+  "moq": 3,
+  "stock": 18,
+  "rating": 4.8,
+  "description": "Wi-Fi connected purifier with app-based TDS monitoring, filter life alerts and auto-flush. Stainless-steel tank keeps water fresh.",
+  "specs": {
+   "Technology": "RO + UV + UF + IoT",
+   "Storage": "10 L steel",
+   "Purification rate": "20 L/hr",
+   "Connectivity": "Wi-Fi",
+   "Warranty": "2 years"
+  },
+  "active": true
+ },
+ {
+  "id": "pur-uv-only-gravity",
+  "name": "PureFlow UV Fresh 6L",
+  "category": "Purifiers",
+  "price": 7999,
+  "mrp": 9439,
+  "dealerPrice": 5920,
+  "moq": 10,
+  "stock": 70,
+  "rating": 4.1,
+  "description": "UV + UF purifier for low-TDS municipal water. Retains natural minerals and uses zero water wastage.",
+  "specs": {
+   "Technology": "UV + UF",
+   "Storage": "6 L",
+   "Purification rate": "60 L/hr",
+   "Max TDS": "300 ppm",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "pur-gravity-classic-23l",
+  "name": "PureFlow Gravity Pro 23L",
+  "category": "Purifiers",
+  "price": 2499,
+  "mrp": 2949,
+  "dealerPrice": 1870,
+  "moq": 20,
+  "stock": 150,
+  "rating": 4,
+  "description": "Non-electric gravity purifier with activated carbon and microfiltration. Needs no electricity or plumbing.",
+  "specs": {
+   "Technology": "Gravity + Carbon",
+   "Storage": "23 L",
+   "Power": "Not required",
+   "Cartridge": "1500 L",
+   "Warranty": "6 months"
+  },
+  "active": true
+ },
+ {
+  "id": "pur-under-sink-ro",
+  "name": "PureFlow UnderSink RO 12L",
+  "category": "Purifiers",
+  "price": 23999,
+  "mrp": 28319,
+  "dealerPrice": 17040,
+  "moq": 3,
+  "stock": 15,
+  "rating": 4.6,
+  "description": "Space-saving under-counter RO system with a designer goose-neck faucet. Ideal for modular kitchens.",
+  "specs": {
+   "Technology": "RO + UV + Mineral",
+   "Storage": "12 L",
+   "Faucet": "Stainless steel goose-neck",
+   "Purification rate": "18 L/hr",
+   "Warranty": "2 years"
+  },
+  "active": true
+ },
+ {
+  "id": "pur-countertop-mini",
+  "name": "PureFlow Mini Countertop RO 5L",
+  "category": "Purifiers",
+  "price": 9499,
+  "mrp": 11209,
+  "dealerPrice": 6930,
+  "moq": 10,
+  "stock": 45,
+  "rating": 4.2,
+  "description": "Compact countertop RO for kitchens without wall space. Easy plug-and-play installation.",
+  "specs": {
+   "Technology": "RO + UV",
+   "Storage": "5 L",
+   "Purification rate": "10 L/hr",
+   "Installation": "Countertop",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "pur-commercial-25lph",
+  "name": "PureFlow Commercial RO 25 LPH",
+  "category": "Purifiers",
+  "price": 34999,
+  "mrp": 41299,
+  "dealerPrice": 24500,
+  "moq": 2,
+  "stock": 12,
+  "rating": 4.5,
+  "description": "Commercial-grade RO for offices, clinics and small restaurants. Stainless-steel body with 25 litres per hour output.",
+  "specs": {
+   "Technology": "RO + UV",
+   "Output": "25 L/hr",
+   "Body": "Stainless steel",
+   "Storage": "25 L",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "pur-industrial-100lph",
+  "name": "PureFlow Industrial RO Plant 100 LPH",
+  "category": "Purifiers",
+  "price": 74999,
+  "mrp": 88499,
+  "dealerPrice": 51000,
+  "moq": 1,
+  "stock": 6,
+  "rating": 4.4,
+  "description": "Skid-mounted industrial RO plant with high-pressure pump, FRP pre-filters and control panel. For hostels, factories and schools.",
+  "specs": {
+   "Output": "100 L/hr",
+   "Membranes": "2 x 4040",
+   "Pre-treatment": "Sand + Carbon FRP",
+   "Panel": "Auto shut-off",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "pur-hot-cold-ro",
+  "name": "PureFlow ThermoPure Hot & Cold RO",
+  "category": "Purifiers",
+  "price": 29999,
+  "mrp": 35399,
+  "dealerPrice": 21000,
+  "moq": 3,
+  "stock": 14,
+  "rating": 4.6,
+  "description": "RO purifier with instant hot (85 C) and chilled (8 C) water dispensing. Child lock on hot tap.",
+  "specs": {
+   "Technology": "RO + UV + Hot/Cold",
+   "Storage": "8 L",
+   "Hot water": "85 C",
+   "Cold water": "8 C",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "pur-copper-gravity",
+  "name": "PureFlow Copper Gravity 18L",
+  "category": "Purifiers",
+  "price": 3299,
+  "mrp": 3889,
+  "dealerPrice": 2470,
+  "moq": 20,
+  "stock": 90,
+  "rating": 4.1,
+  "description": "Gravity purifier with copper ion cartridge and food-grade transparent storage.",
+  "specs": {
+   "Technology": "Gravity + Copper",
+   "Storage": "18 L",
+   "Power": "Not required",
+   "Cartridge": "2000 L",
+   "Warranty": "6 months"
+  },
+  "active": true
+ },
+ {
+  "id": "pur-whole-house",
+  "name": "PureFlow Whole House Filter System",
+  "category": "Purifiers",
+  "price": 19999,
+  "mrp": 23599,
+  "dealerPrice": 14000,
+  "moq": 2,
+  "stock": 10,
+  "rating": 4.5,
+  "description": "Point-of-entry triple-stage system that filters sediment, chlorine and iron for every tap in the home.",
+  "specs": {
+   "Stages": "3 (Sediment, Carbon, Iron)",
+   "Flow": "3000 L/hr",
+   "Inlet": "1 inch",
+   "Housing": "20 inch Big Blue",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "dis-hot-cold-floor",
+  "name": "PureFlow Hot & Cold Floor Dispenser",
+  "category": "Dispensers",
+  "price": 12999,
+  "mrp": 15339,
+  "dealerPrice": 9360,
+  "moq": 5,
+  "stock": 30,
+  "rating": 4.4,
+  "description": "Floor-standing bottled water dispenser with hot, cold and normal taps and a storage cabinet.",
+  "specs": {
+   "Taps": "Hot, Cold, Normal",
+   "Cooling": "Compressor",
+   "Bottle": "20 L",
+   "Cabinet": "Yes",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "dis-tabletop-hot-normal",
+  "name": "PureFlow Tabletop Hot & Normal Dispenser",
+  "category": "Dispensers",
+  "price": 4999,
+  "mrp": 5899,
+  "dealerPrice": 3700,
+  "moq": 10,
+  "stock": 55,
+  "rating": 4.1,
+  "description": "Compact table-top dispenser with hot and normal taps. Ideal for small offices.",
+  "specs": {
+   "Taps": "Hot, Normal",
+   "Bottle": "20 L",
+   "Hot water": "90 C",
+   "Power": "500 W",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "dis-bottom-load",
+  "name": "PureFlow Bottom Load Dispenser",
+  "category": "Dispensers",
+  "price": 16999,
+  "mrp": 20059,
+  "dealerPrice": 12070,
+  "moq": 3,
+  "stock": 18,
+  "rating": 4.6,
+  "description": "Bottom-loading dispenser removes heavy lifting. Stainless-steel reservoir with LED night light.",
+  "specs": {
+   "Taps": "Hot, Cold, Normal",
+   "Loading": "Bottom",
+   "Reservoir": "Stainless steel",
+   "Bottle": "20 L",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "dis-steel-cooler-80l",
+  "name": "PureFlow Steel Water Cooler 80L",
+  "category": "Dispensers",
+  "price": 28999,
+  "mrp": 34219,
+  "dealerPrice": 20300,
+  "moq": 2,
+  "stock": 10,
+  "rating": 4.5,
+  "description": "Full stainless-steel water cooler with 80 litre storage and 2 push taps for schools and factories.",
+  "specs": {
+   "Storage": "80 L",
+   "Cooling": "40 L/hr",
+   "Body": "SS 304",
+   "Taps": "2",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "dis-steel-cooler-150l",
+  "name": "PureFlow Steel Water Cooler 150L",
+  "category": "Dispensers",
+  "price": 39999,
+  "mrp": 47199,
+  "dealerPrice": 27600,
+  "moq": 2,
+  "stock": 8,
+  "rating": 4.5,
+  "description": "Heavy-duty 150 litre water cooler with built-in RO-ready inlet and 4 taps.",
+  "specs": {
+   "Storage": "150 L",
+   "Cooling": "75 L/hr",
+   "Body": "SS 304",
+   "Taps": "4",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "dis-manual-pump",
+  "name": "PureFlow Manual Bottle Pump",
+  "category": "Dispensers",
+  "price": 299,
+  "mrp": 349,
+  "dealerPrice": 190,
+  "moq": 50,
+  "stock": 400,
+  "rating": 3.9,
+  "description": "Hand-press pump for 20 litre water cans. No electricity required.",
+  "specs": {
+   "Fits": "20 L can",
+   "Material": "Food-grade PP",
+   "Power": "Manual",
+   "Colour": "Blue",
+   "Warranty": "3 months"
+  },
+  "active": true
+ },
+ {
+  "id": "dis-electric-bottle-pump",
+  "name": "PureFlow USB Electric Can Pump",
+  "category": "Dispensers",
+  "price": 649,
+  "mrp": 769,
+  "dealerPrice": 420,
+  "moq": 50,
+  "stock": 300,
+  "rating": 4.2,
+  "description": "Rechargeable one-touch electric dispenser pump for 20 litre cans with auto stop.",
+  "specs": {
+   "Battery": "1200 mAh",
+   "Charging": "USB-C",
+   "Flow": "1.6 L/min",
+   "Fits": "20 L can",
+   "Warranty": "6 months"
+  },
+  "active": true
+ },
+ {
+  "id": "dis-ceramic-crock",
+  "name": "PureFlow Ceramic Crock Dispenser 12L",
+  "category": "Dispensers",
+  "price": 1899,
+  "mrp": 2239,
+  "dealerPrice": 1330,
+  "moq": 20,
+  "stock": 60,
+  "rating": 4.3,
+  "description": "Traditional glazed ceramic crock with brass tap and wooden stand. Keeps water naturally cool.",
+  "specs": {
+   "Capacity": "12 L",
+   "Material": "Glazed ceramic",
+   "Tap": "Brass",
+   "Stand": "Wooden",
+   "Warranty": "3 months"
+  },
+  "active": true
+ },
+ {
+  "id": "pmp-ro-booster-100",
+  "name": "PureFlow RO Booster Pump 100 GPD",
+  "category": "Pumps",
+  "price": 2299,
+  "mrp": 2709,
+  "dealerPrice": 1610,
+  "moq": 10,
+  "stock": 120,
+  "rating": 4.4,
+  "description": "Diaphragm booster pump for domestic RO systems up to 100 GPD. Low noise, long life.",
+  "specs": {
+   "Capacity": "100 GPD",
+   "Voltage": "24 V DC",
+   "Pressure": "80-100 psi",
+   "Type": "Diaphragm",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "pmp-ro-booster-75",
+  "name": "PureFlow RO Booster Pump 75 GPD",
+  "category": "Pumps",
+  "price": 1799,
+  "mrp": 2119,
+  "dealerPrice": 1260,
+  "moq": 10,
+  "stock": 140,
+  "rating": 4.3,
+  "description": "Self-priming booster pump for 75 GPD RO membranes. Includes mounting screws.",
+  "specs": {
+   "Capacity": "75 GPD",
+   "Voltage": "24 V DC",
+   "Pressure": "70-90 psi",
+   "Type": "Diaphragm",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "pmp-pressure-booster-home",
+  "name": "PureFlow Home Pressure Booster 0.5HP",
+  "category": "Pumps",
+  "price": 6499,
+  "mrp": 7669,
+  "dealerPrice": 4550,
+  "moq": 5,
+  "stock": 30,
+  "rating": 4.5,
+  "description": "Automatic pressure booster pump for showers and taps on upper floors. Auto on/off flow switch.",
+  "specs": {
+   "Power": "0.5 HP",
+   "Max head": "25 m",
+   "Flow": "35 L/min",
+   "Control": "Automatic",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "pmp-submersible-1hp",
+  "name": "PureFlow Submersible Borewell Pump 1HP",
+  "category": "Pumps",
+  "price": 11999,
+  "mrp": 14159,
+  "dealerPrice": 8400,
+  "moq": 3,
+  "stock": 20,
+  "rating": 4.4,
+  "description": "Stainless-steel submersible pump for 4 inch borewells. Oil-filled motor with thermal overload.",
+  "specs": {
+   "Power": "1 HP",
+   "Bore": "4 inch",
+   "Max head": "60 m",
+   "Stages": "10",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "pmp-monoblock-1hp",
+  "name": "PureFlow Monoblock Pump 1HP",
+  "category": "Pumps",
+  "price": 5999,
+  "mrp": 7079,
+  "dealerPrice": 4200,
+  "moq": 5,
+  "stock": 35,
+  "rating": 4.3,
+  "description": "Cast-iron monoblock centrifugal pump for domestic water supply and garden use.",
+  "specs": {
+   "Power": "1 HP",
+   "Max head": "32 m",
+   "Flow": "50 L/min",
+   "Body": "Cast iron",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "pmp-hp-commercial-ro",
+  "name": "PureFlow High-Pressure Pump for Commercial RO",
+  "category": "Pumps",
+  "price": 18999,
+  "mrp": 22419,
+  "dealerPrice": 12920,
+  "moq": 2,
+  "stock": 12,
+  "rating": 4.5,
+  "description": "Multistage high-pressure pump for 100-500 LPH RO plants. Stainless-steel impellers.",
+  "specs": {
+   "Power": "1.5 HP",
+   "Pressure": "15 bar",
+   "Flow": "2 m3/hr",
+   "Material": "SS 304",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "pmp-solar-dc",
+  "name": "PureFlow Solar DC Water Pump",
+  "category": "Pumps",
+  "price": 8999,
+  "mrp": 10619,
+  "dealerPrice": 6300,
+  "moq": 5,
+  "stock": 22,
+  "rating": 4.2,
+  "description": "Brushless DC pump that runs directly from solar panels. Perfect for farms and off-grid homes.",
+  "specs": {
+   "Voltage": "24 V DC",
+   "Power": "300 W",
+   "Max head": "30 m",
+   "Type": "Brushless",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "pmp-dosing",
+  "name": "PureFlow Chemical Dosing Pump",
+  "category": "Pumps",
+  "price": 7499,
+  "mrp": 8849,
+  "dealerPrice": 5170,
+  "moq": 5,
+  "stock": 16,
+  "rating": 4.3,
+  "description": "Electronic diaphragm dosing pump for antiscalant and chlorine dosing in RO plants.",
+  "specs": {
+   "Flow": "6 L/hr",
+   "Pressure": "7 bar",
+   "Control": "Manual knob",
+   "Material": "PVDF head",
+   "Warranty": "1 year"
+  },
+  "active": true
+ },
+ {
+  "id": "flt-ro-membrane-80",
+  "name": "RO Membrane 80 GPD",
+  "category": "Filters",
+  "price": 1499,
+  "mrp": 1769,
+  "dealerPrice": 930,
+  "moq": 25,
+  "stock": 300,
+  "rating": 4.5,
+  "description": "High-rejection thin-film composite RO membrane. Fits all standard domestic RO housings.",
+  "specs": {
+   "Capacity": "80 GPD",
+   "Rejection": "96-98%",
+   "Size": "1812",
+   "Max TDS": "2000 ppm",
+   "Life": "18-24 months"
+  },
+  "active": true
+ },
+ {
+  "id": "flt-ro-membrane-100",
+  "name": "RO Membrane 100 GPD",
+  "category": "Filters",
+  "price": 1899,
+  "mrp": 2239,
+  "dealerPrice": 1180,
+  "moq": 25,
+  "stock": 250,
+  "rating": 4.6,
+  "description": "High-flow RO membrane for larger families and faster tank refill.",
+  "specs": {
+   "Capacity": "100 GPD",
+   "Rejection": "96-98%",
+   "Size": "2012",
+   "Max TDS": "2000 ppm",
+   "Life": "18-24 months"
+  },
+  "active": true
+ },
+ {
+  "id": "flt-sediment-10",
+  "name": "Sediment Spun Filter 10 inch (Pack of 5)",
+  "category": "Filters",
+  "price": 399,
+  "mrp": 469,
+  "dealerPrice": 240,
+  "moq": 50,
+  "stock": 800,
+  "rating": 4.2,
+  "description": "5 micron polypropylene spun cartridges that remove sand, rust and dirt.",
+  "specs": {
+   "Micron": "5",
+   "Size": "10 inch",
+   "Material": "Polypropylene",
+   "Pack": "5 cartridges",
+   "Life": "3-6 months"
+  },
+  "active": true
+ },
+ {
+  "id": "flt-carbon-block",
+  "name": "Activated Carbon Block Filter 10 inch",
+  "category": "Filters",
+  "price": 549,
+  "mrp": 649,
+  "dealerPrice": 330,
+  "moq": 50,
+  "stock": 500,
+  "rating": 4.3,
+  "description": "Coconut-shell carbon block that removes chlorine, odour and bad taste.",
+  "specs": {
+   "Micron": "10",
+   "Size": "10 inch",
+   "Media": "Coconut shell carbon",
+   "Life": "6 months"
+  },
+  "active": true
+ },
+ {
+  "id": "flt-inline-post-carbon",
+  "name": "Inline Post-Carbon Filter",
+  "category": "Filters",
+  "price": 349,
+  "mrp": 409,
+  "dealerPrice": 210,
+  "moq": 50,
+  "stock": 600,
+  "rating": 4.2,
+  "description": "Inline granular carbon polish filter that improves taste after RO.",
+  "specs": {
+   "Type": "Inline T33",
+   "Media": "GAC",
+   "Connection": "1/4 inch",
+   "Life": "6-12 months"
+  },
+  "active": true
+ },
+ {
+  "id": "flt-inline-sediment",
+  "name": "Inline Sediment Pre-Filter",
+  "category": "Filters",
+  "price": 299,
+  "mrp": 349,
+  "dealerPrice": 180,
+  "moq": 50,
+  "stock": 600,
+  "rating": 4.1,
+  "description": "Inline sediment filter that protects the RO membrane from fine particles.",
+  "specs": {
+   "Type": "Inline T33",
+   "Micron": "5",
+   "Connection": "1/4 inch",
+   "Life": "6 months"
+  },
+  "active": true
+ },
+ {
+  "id": "flt-uf-membrane",
+  "name": "UF Membrane Inline Filter",
+  "category": "Filters",
+  "price": 649,
+  "mrp": 769,
+  "dealerPrice": 400,
+  "moq": 50,
+  "stock": 350,
+  "rating": 4.3,
+  "description": "Hollow-fibre ultrafiltration membrane that removes bacteria and cysts.",
+  "specs": {
+   "Pore": "0.01 micron",
+   "Type": "Inline",
+   "Connection": "1/4 inch",
+   "Life": "12 months"
+  },
+  "active": true
+ },
+ {
+  "id": "flt-mineral-cartridge",
+  "name": "Mineral Booster Cartridge",
+  "category": "Filters",
+  "price": 499,
+  "mrp": 589,
+  "dealerPrice": 300,
+  "moq": 50,
+  "stock": 400,
+  "rating": 4.2,
+  "description": "Adds calcium and magnesium back into RO water for better taste.",
+  "specs": {
+   "Minerals": "Ca, Mg, K",
+   "Type": "Inline",
+   "Connection": "1/4 inch",
+   "Life": "6-12 months"
+  },
+  "active": true
+ },
+ {
+  "id": "flt-alkaline-cartridge",
+  "name": "Alkaline pH Booster Cartridge",
+  "category": "Filters",
+  "price": 699,
+  "mrp": 819,
+  "dealerPrice": 420,
+  "moq": 50,
+  "stock": 300,
+  "rating": 4.4,
+  "description": "Raises pH of purified water to 8.0-9.5 using natural mineral balls.",
+  "specs": {
+   "pH": "8.0 - 9.5",
+   "Type": "Inline",
+   "Connection": "1/4 inch",
+   "Life": "6-12 months"
+  },
+  "active": true
+ },
+ {
+  "id": "flt-copper-cartridge",
+  "name": "Copper Infusion Cartridge",
+  "category": "Filters",
+  "price": 749,
+  "mrp": 879,
+  "dealerPrice": 450,
+  "moq": 50,
+  "stock": 250,
+  "rating": 4.3,
+  "description": "Copper-ion cartridge that infuses trace copper for a traditional health boost.",
+  "specs": {
+   "Media": "Copper alloy",
+   "Type": "Inline",
+   "Connection": "1/4 inch",
+   "Life": "12 months"
+  },
+  "active": true
+ },
+ {
+  "id": "flt-iron-removal-20",
+  "name": "Iron Removal Filter 20 inch Big Blue",
+  "category": "Filters",
+  "price": 1299,
+  "mrp": 1529,
+  "dealerPrice": 810,
+  "moq": 20,
+  "stock": 150,
+  "rating": 4.3,
+  "description": "Jumbo cartridge with birm media for iron and manganese removal in borewell water.",
+  "specs": {
+   "Size": "20 x 4.5 inch",
+   "Media": "Birm + Carbon",
+   "Flow": "25 L/min",
+   "Life": "6 months"
+  },
+  "active": true
+ },
+ {
+  "id": "flt-service-kit",
+  "name": "Annual RO Service Kit (Full Filter Set)",
+  "category": "Filters",
+  "price": 2499,
+  "mrp": 2949,
+  "dealerPrice": 1550,
+  "moq": 20,
+  "stock": 200,
+  "rating": 4.6,
+  "description": "Complete yearly kit with sediment, carbon, post-carbon, mineral filters and fittings.",
+  "specs": {
+   "Contents": "4 filters + 6 fittings + tape",
+   "Compatible": "All domestic RO",
+   "Life": "12 months"
+  },
+  "active": true
+ },
+ {
+  "id": "spr-smps-24v",
+  "name": "SMPS Adapter 24V 2.5A",
+  "category": "Spares",
+  "price": 699,
+  "mrp": 819,
+  "dealerPrice": 410,
+  "moq": 50,
+  "stock": 400,
+  "rating": 4.2,
+  "description": "Switch-mode power supply for RO booster pumps and solenoid valves.",
+  "specs": {
+   "Output": "24 V DC, 2.5 A",
+   "Input": "100-240 V AC",
+   "Connector": "Barrel 5.5 mm",
+   "Warranty": "6 months"
+  },
+  "active": true
+ },
+ {
+  "id": "spr-solenoid-valve",
+  "name": "Solenoid Valve 24V",
+  "category": "Spares",
+  "price": 449,
+  "mrp": 529,
+  "dealerPrice": 260,
+  "moq": 50,
+  "stock": 400,
+  "rating": 4.1,
+  "description": "Inlet solenoid valve that stops water flow when the purifier is off.",
+  "specs": {
+   "Voltage": "24 V DC",
+   "Connection": "1/4 inch quick-connect",
+   "Type": "Normally closed"
+  },
+  "active": true
+ },
+ {
+  "id": "spr-float-valve",
+  "name": "Float Valve for RO Tank",
+  "category": "Spares",
+  "price": 249,
+  "mrp": 289,
+  "dealerPrice": 140,
+  "moq": 50,
+  "stock": 500,
+  "rating": 4,
+  "description": "Mechanical float valve that shuts off filling when the storage tank is full.",
+  "specs": {
+   "Connection": "1/4 inch",
+   "Material": "Food-grade ABS",
+   "Fits": "All RO storage tanks"
+  },
+  "active": true
+ },
+ {
+  "id": "spr-uv-lamp-11w",
+  "name": "UV Lamp 11W with Ballast",
+  "category": "Spares",
+  "price": 899,
+  "mrp": 1059,
+  "dealerPrice": 520,
+  "moq": 30,
+  "stock": 300,
+  "rating": 4.3,
+  "description": "Germicidal UV lamp and ballast set for UV purifiers.",
+  "specs": {
+   "Power": "11 W",
+   "Wavelength": "254 nm",
+   "Life": "8000 hrs",
+   "Includes": "Lamp + ballast"
+  },
+  "active": true
+ },
+ {
+  "id": "spr-ro-faucet-ss",
+  "name": "Stainless Steel RO Faucet",
+  "category": "Spares",
+  "price": 549,
+  "mrp": 649,
+  "dealerPrice": 320,
+  "moq": 50,
+  "stock": 300,
+  "rating": 4.4,
+  "description": "Lead-free SS 304 goose-neck faucet for under-sink RO systems.",
+  "specs": {
+   "Material": "SS 304",
+   "Finish": "Brushed chrome",
+   "Connection": "1/4 inch"
+  },
+  "active": true
+ },
+ {
+  "id": "spr-pressure-tank-11l",
+  "name": "RO Pressure Tank 11L",
+  "category": "Spares",
+  "price": 2499,
+  "mrp": 2949,
+  "dealerPrice": 1500,
+  "moq": 20,
+  "stock": 80,
+  "rating": 4.3,
+  "description": "Pre-charged steel pressure tank for under-sink RO systems.",
+  "specs": {
+   "Capacity": "11 L",
+   "Material": "Steel with food-grade bladder",
+   "Connection": "1/4 inch"
+  },
+  "active": true
+ },
+ {
+  "id": "spr-tds-meter",
+  "name": "Digital TDS Meter",
+  "category": "Spares",
+  "price": 399,
+  "mrp": 469,
+  "dealerPrice": 220,
+  "moq": 50,
+  "stock": 500,
+  "rating": 4.5,
+  "description": "Pocket TDS and temperature meter to check water quality instantly.",
+  "specs": {
+   "Range": "0-9990 ppm",
+   "Accuracy": "+/- 2%",
+   "Display": "LCD",
+   "Battery": "2 x LR44"
+  },
+  "active": true
+ },
+ {
+  "id": "spr-pipe-fittings-kit",
+  "name": "RO Pipe & Fittings Kit",
+  "category": "Spares",
+  "price": 349,
+  "mrp": 409,
+  "dealerPrice": 190,
+  "moq": 50,
+  "stock": 600,
+  "rating": 4.2,
+  "description": "10 metres of 1/4 inch food-grade pipe with elbows, tees and connectors.",
+  "specs": {
+   "Pipe": "10 m, 1/4 inch",
+   "Fittings": "12 pcs",
+   "Material": "Food-grade PE"
+  },
+  "active": true
+ },
+ {
+  "id": "spr-filter-housing-10",
+  "name": "Filter Housing 10 inch with Spanner",
+  "category": "Spares",
+  "price": 599,
+  "mrp": 709,
+  "dealerPrice": 350,
+  "moq": 50,
+  "stock": 300,
+  "rating": 4.2,
+  "description": "Transparent pre-filter housing with wall bracket and spanner.",
+  "specs": {
+   "Size": "10 inch",
+   "Port": "1/2 inch",
+   "Includes": "Bracket + spanner",
+   "Material": "Transparent SAN"
+  },
+  "active": true
+ },
+ {
+  "id": "spr-flow-restrictor",
+  "name": "Flow Restrictor 450cc",
+  "category": "Spares",
+  "price": 99,
+  "mrp": 119,
+  "dealerPrice": 50,
+  "moq": 100,
+  "stock": 900,
+  "rating": 4,
+  "description": "Inline flow restrictor that maintains the correct reject ratio for the RO membrane.",
+  "specs": {
+   "Flow": "450 cc/min",
+   "Connection": "1/4 inch",
+   "Fits": "75-100 GPD membranes"
+  },
+  "active": true
+ }
+]
